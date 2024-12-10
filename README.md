@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Oluwaseun Peter 
+- 👋 Hi, I’m Oluwaseun Peter
+-  - 🌱 I write in Dart
+ 
+     
 - 👀 I’m an fresh graduate, and I'm trying to venture into the TECH world...
-- 🌱 I’m currently learning Python programming language...
+
 - 💞️ I’m looking to collaborate on projects that will help me through learning...
 
 
